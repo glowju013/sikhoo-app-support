@@ -32,4 +32,4 @@
 
 개인정보 관련 문의는 아래 이메일로 연락해주세요.
 
-**이메일**: support@example.com
+**이메일**: contact.sikhoo@gmail.com
